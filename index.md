@@ -1,8 +1,34 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/wangyitingmary/wangyitingmary.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to visit Bioinformatic Tools and Pipeline Laboratory of Yersinia pestics branch of ICDC!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bioinformatic Tools and Pipeline Laboratory is a repository for lab members and collaborators to share useful scripts and applications.
+
+We are aim to help molecular microbiologists, molecular epidemiologists to handle bacterial genome data related with Multilocus sequence typing (MLST), Whole genome multi locus sequence typing (wgMLST), Multiple Locus Variable-number tandem repeat Analysis(MLVA),  Single nucleotide polymorphism (SNP) analysis.
+
+
+### Mutilocus sequence typing (MLST) pipelines:
+
+### Whole genome multi locus sequence typing (wgMLST) pipelines:
+
+### Multiple Locus Variable-number tandem repeat Analysis (MLVA) pipelines:
+
+### Single nucleotide polymorphism (SNP) analysis pipelines:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Markdown
 
