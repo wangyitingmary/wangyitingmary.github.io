@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to visit Bioinformatic Tools and Pipeline Laboratory of Yersinia pestics branch of ICDC!
+Welcome to visit Bioinformatic Tools and Pipeline Laboratory of Mary's!
 
 Bioinformatic Tools and Pipeline Laboratory is a repository for lab members and collaborators to share useful scripts and applications.
 
